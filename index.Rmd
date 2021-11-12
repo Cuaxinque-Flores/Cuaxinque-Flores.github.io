@@ -1,0 +1,29 @@
+---
+title: "Gustavo Cuaxinque Flores"
+--author: "Gustavo Cuaxinque-Flores"
+--date: "12/11/2021"
+output:
+  html_document:
+    theme: darkly
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Datos personales
+
+Fecha de nacimiento: 27 junio 1992
+Edad:29
+Nacionalidad: Mexicana
+
+## Formación académica
+#dos espacios en blanco para salto de linea   
+Licenciatura: Químico Biologo Parasitologo  
+Maestría: Recursos Naturales     
+2019-2021  
+
+## Contacto y redes sociales   
+Correo electronico: cuaxinque-@outlook.com  
+Facebook: Gustavo Cuaxinque Flores  
+Twitter: @Cuaxinque-Flores  
