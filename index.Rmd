@@ -28,5 +28,20 @@ Correo electronico: cuaxinque-@outlook.com
 ![](./img/facebook_icon.png)Facebook: [Gustavo Cuaxinque Flores](https://www.facebook.com/)  
 ![](./img/Twitter_icon.png)Twitter: [Cuaxinque-Flores](https://twitter.com/home)  
 
-## Ejercicio
+## Ejercicio links a documentos
 
+## Reporte
+Este es mi primer reporte para GitHub, aquí encontrarás los resultados de la práctica. Para ver el contenido hacer clic [aqui](./docs/1-s2.0-S0304389421014448-main.pdf)
+
+## Agregar otro link a otra red social o un link de descarga 
+![](./img/XRD.gif)
+## Gráficas  
+Histrograma 
+hist(iris$Sepal.Length)
+```{r}
+hist(iris$Sepal.Length)
+```
+plot:
+```{r}
+plot(iris$Sepal.Length, iris$Petal.Length, col = iris$Species)
+```
