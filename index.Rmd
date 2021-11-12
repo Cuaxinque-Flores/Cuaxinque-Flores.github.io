@@ -25,8 +25,9 @@ Maestría: Recursos Naturales
 
 ## Contacto y redes sociales   
 Correo electronico: cuaxinque-@outlook.com  
-![](./img/facebook_icon.png) Facebook: [Gustavo Cuaxinque Flores](https://www.facebook.com/)  
-![](./img/Twitter_icon.png) Twitter: [Cuaxinque-Flores](https://twitter.com/home)  
+![](./img/facebook_icon.png)Facebook: [Gustavo Cuaxinque Flores](https://www.facebook.com/)  
+![](./img/Twitter_icon.png)Twitter: [Cuaxinque-Flores](https://twitter.com/home)  
 
-## Creación de imagenes
-![](./img)
+## Ejercicio
+![](./img/gustavo.png)
+
